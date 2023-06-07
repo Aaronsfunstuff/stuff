@@ -1,0 +1,8 @@
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+}
+:root {
+  color-scheme: light dark; /* both supported */
+}
